@@ -51,5 +51,3 @@ The dashboard can include the following analyses, depending on the visuals imple
 
 GitHub: https://github.com/Vaisalya
 
-## Disclaimer
-This project is intended for educational and portfolio purposes. Findings depend on the dataset used and do not necessarily represent the entire startup funding market.
